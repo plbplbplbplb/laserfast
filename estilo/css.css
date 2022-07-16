@@ -1,8 +1,10 @@
 /* -----------------------Elementos do HTML 5---------------------- */
 
 body {width: 390px; height: 320px; background-color: 	#4B0082;border-radius: 5px;}
-header{width: 98%; height: 100px; background-color: white;float: left; margin-left: ;border-radius: 5px;}
-footer{width: 98%; height: 80px; background-color: RGB(255, 183, 213);float: left; margin-left: ; margin-top: 5px;border-radius: 5px;}
+header{width: 98%; height: 100px; background-color: white;float: left; margin-left: ;border-radius: 5px; margin-bottom: 20px;}
+footer{width: 98%; height: 80px; background-color: white;float: left; margin-left: ; margin-top: 20px;border-radius: 5px;
+}
+
 
 
 /* -----------------------Elementos HTML---------------------------- */
@@ -29,7 +31,7 @@ text-align: center;}
 #caixa{width: 98%; height: 80px; background-color: #FFE9F2; float: left; margin-top: 5px; border-radius: 7px;
 font-size: xx-small;}
 
-#icone{width: 60px; height: 60px; float: right; margin-top: 10px; margin-right: 10px;}
+#icone{width: 60px; height: 60px; float: right; margin-top: 10px; margin-right: 10px; padding-right: 5px;}
 
 #font{font-family: 'Century Gothic'; float: left; margin-left: 10px; padding-top: 13px; padding-left: 10px; }
 
