@@ -29,7 +29,9 @@ text-align: center;}
 #caixa{width: 98%; height: 80px; background-color: #FFE9F2; float: left; margin-top: 5px; border-radius: 7px;
 font-size: xx-small;}
 
-#icone{width: 60px; height: 60px;}
+#icone{width: 60px; height: 60px; float: right; margin-top: 10px; margin-right: 10px;}
+
+#font{font-family: 'Century Gothic'; float: left; margin-left: 10px; padding-top: 13px; padding-left: 10px; }
 
 #eu{font-family: 'Bernard MT condensed'; font-size:large;  padding-top: 25px;}
 #boa{font-family: 'Bernard MT condensed'; font-size:medium;  padding-top: 3px;}
