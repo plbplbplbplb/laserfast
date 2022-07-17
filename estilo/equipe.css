@@ -1,0 +1,12 @@
+/* -----------------------Elementos do HTML 5---------------------- */
+
+body {width: 390px; height: 740px; background-color: 	#4B0082;border-radius: 5px;}
+header{width: 98%; height: 100px; background-color: white;float: left; margin-bottom :5px: ;border-radius: 5px; margin-bottom: 20px;}
+
+/* -----------------------Elementos HTML---------------------------- */
+iframe{margin-top: 5px;}
+
+/* ---------------------Identificações e Classes----------------------*/
+
+#logo {width: 95%; height: 100px;}
+#logo1{width: 179px; height: 81px; float: right; margin-top: 10px; border-radius: 7px;}
